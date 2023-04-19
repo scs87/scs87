@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hello world ! 👋
 
 <div align="center">
    
-   <h1>Hi there 👋👋👋 Im Sergi Clemente!</h1>
+   <h1>Hi there 👋👋👋 Welcome to Sergi Clemente git hub!</h1>
    <h3> </h3>
    
 </div>
