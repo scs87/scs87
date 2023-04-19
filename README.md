@@ -4,7 +4,7 @@
    
    <h1>Hi there 👋👋👋 Im Sergi Clemente!</h1>
    <h3> </h3>
-   <img src="https://media.giphy.com/media/tJDz8mPYyUJZ1Pg9fA/giphy.gif" width="200" alt="Better world gift">
+   
 </div>
 
 ### Status:
@@ -20,7 +20,7 @@
  ### Connect with me:
 
 <a href="https://www.linkedin.com/in/sergio-clemente-0a0721266/">
-    <img src="https://github.com/scs87">
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="30" alt="Linkedin logo">
 </a>
 
 ### Lenguages and tools:
@@ -31,7 +31,6 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" alt="React logo">
    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" alt="Tailwindcss logo">
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50" alt="VS Code logo">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="50" alt="NPM logo">
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" alt="Figma logo">
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" alt="Git logo">
    <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" width="50" alt="ESLint log">
@@ -44,3 +43,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50" alt="NodeJS logo">
    </div
   
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=scs87&theme=onedark)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=scs87&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scs87&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
