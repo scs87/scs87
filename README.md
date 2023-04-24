@@ -11,7 +11,7 @@
 
 🔭 Currently working on: Streaming music app 
 
-🌱 Currently learning: **React.js, MongoDB, Mongoosejs, Firebase and Docker**
+🌱 Currently learning: **React.js, MongoDB, Firebase and PostgreSQL**
 
 👯 Looking to collaborate on my first challenge in a tech company
 
