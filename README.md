@@ -44,7 +44,3 @@
    </div
   
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=scs87&theme=onedark)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=scs87&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scs87&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
