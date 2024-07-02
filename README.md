@@ -23,7 +23,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="30" alt="Linkedin logo">
 </a>
 
-### Lenguages and tools:
+### Lenguages and tools !
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" alt="HTML5 logo">
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" alt="CSS3 logo">
