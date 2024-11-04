@@ -13,8 +13,6 @@
 
 🌱 Currently learning: **React.js, MongoDB, Firebase and PostgreSQL**
 
-👯 Looking to collaborate on my first challenge in a tech company
-
 👀 How to reach me: <scsanz87@gmail.com>
     
  ### Connect with me:
