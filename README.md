@@ -27,7 +27,6 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" alt="CSS3 logo">
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" alt="Javascript logo">
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" alt="React logo">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" alt="Tailwindcss logo">
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50" alt="VS Code logo">
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" alt="Figma logo">
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" alt="Git logo">
